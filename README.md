@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there! 👋
+I'm Logan, a senior Computer Science student studying at Samford University.
 <!--
 **lmay1231/lmay1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
